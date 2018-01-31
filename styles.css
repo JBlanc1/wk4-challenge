@@ -1,0 +1,9 @@
+/* Your CSS rules go here */
+
+body { font-family: helvetica; }
+.jumbotron-fluid {
+  background-image: url("gounu.jpg");
+  background-size: cover;
+  background-position: center center;
+  /* color: white; */
+}
